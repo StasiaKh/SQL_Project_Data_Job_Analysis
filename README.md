@@ -55,7 +55,7 @@ What the results showed:
 - Title variety — from Data Analyst to Director of Analytics, the roles vary widely in seniority and scope.
 
 
-![Top paying roles](assets\bar_graph.png)
+![Top paying roles](assets/bar_graph.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for top paying jobs
@@ -96,7 +96,7 @@ Three skills stood out clearly:
 
 Beyond the top three, R, Snowflake, Pandas, and Excel appeared with lower but still notable frequency.
 
-![Top paying roles](assets\skills.png)
+![Top paying roles](assets/skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-demand skills for data analysts
